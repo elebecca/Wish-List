@@ -7,10 +7,10 @@ Prototype of an interactive Wish-List create in jQuery.
 
 # Tech
 
-Front end HTML5/CSS
-jQuery
-Github
-Sublime Text 2
+* Front end HTML5/CSS
+* Github
+* jQuery
+* Sublime Text 2
 
 # Team
 
